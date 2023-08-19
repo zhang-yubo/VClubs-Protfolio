@@ -4,6 +4,6 @@ The initiation became offical website for my school, created lasting school-wide
 
 It still operates today at www.vclubs.org though without frequent maintenance by my team.
 
-<img width="1002" alt="ClubFair1" src="https://github.com/zhang-yubo/VClubs-Protfolio/assets/52626825/07c15f59-32d8-49fa-9594-bdeefd37d022">
+<img width="1002" alt="ClubFair1" src="https://github.com/zhang-yubo/VClubs-Protfolio/assets/52626825/95323bc5-9174-45a6-bd22-82f8fe8329b3">
 
-![HomePage2](https://github.com/zhang-yubo/VClubs-Protfolio/assets/52626825/1e3ace84-595a-4d3a-927d-939a5a07d320)
+![HomePage2](https://github.com/zhang-yubo/VClubs-Protfolio/assets/52626825/2a9a36d8-1df8-4d64-8c5c-9ae6cf986c75)
