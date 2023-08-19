@@ -1,4 +1,4 @@
-**[VClubs](https://www.vclubs.org/) is a project I did during summer 2020, before my senior year in high school 🎓, which also happens to be during the pandemic**
+**[VClubs](https://www.vclubs.org/) is my personal project during summer 2020, before my senior year in high school 🎓, which also happens to be during the pandemic**
 
 The initiation became offical website for my school, created lasting school-wide impact on club operations, and widely acclaimed by students, clubs, and teachers.
 
